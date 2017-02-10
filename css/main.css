@@ -760,7 +760,9 @@ Change widths as necessary
       width: 100%;
       display: inline-block;
   }
-  
+  .vcard_block >div{
+    width: auto;
+  }
 }
 .card_map{
   margin-bottom: 30px;
