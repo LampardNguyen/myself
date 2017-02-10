@@ -752,6 +752,10 @@ Change widths as necessary
     margin-bottom: 5px;
     padding: 0;
 }
+.vcard_text{
+    width: 100%;
+    display: inline-block;
+}
 .card_map{
   margin-bottom: 30px;
 }
