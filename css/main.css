@@ -753,8 +753,14 @@ Change widths as necessary
     padding: 0;
 }
 .vcard_text{
-    width: 100%;
-    display: inline-block;
+    margin-bottom: 5px;
+}
+@media screen (max-width:600px){
+  .vcard_text{
+      width: 100%;
+      display: inline-block;
+  }
+  
 }
 .card_map{
   margin-bottom: 30px;
