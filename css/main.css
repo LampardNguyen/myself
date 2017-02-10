@@ -755,7 +755,7 @@ Change widths as necessary
 .vcard_text{
     margin-bottom: 5px;
 }
-@media screen (max-width:600px){
+@media screen and (max-width:600px){
   .vcard_text{
       width: 100%;
       display: inline-block;
