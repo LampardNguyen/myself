@@ -791,3 +791,7 @@ Change widths as necessary
 margin: 0;
   margin-bottom: -5px;
 }
+
+.skype-button-cust #SkypeButton_Call_nguyenduylinh.lampard_1_paraElement{
+  margin: auto;
+    display: flex;
